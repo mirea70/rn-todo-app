@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "rn-todo-app",
+    "slug": "rn-todo-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
